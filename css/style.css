@@ -1522,7 +1522,7 @@ transition: all .3s;
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
     background: #F4C2C2;
-    color: #FCB96D; /* text when u hover over aaaaaaaaaaa*/
+    color: #FFFFFF; /* text when u hover over aaaaaaaaaaa*/
     text-decoration: none;
     border: #F4C2C2 solid 1px;
 }
