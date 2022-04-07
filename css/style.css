@@ -407,7 +407,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #FFD688;
+    color: #FCB96D;
     background-color: transparent;
     border-radius: 4px;
 }
@@ -676,7 +676,7 @@ color:#fff;
 }
 .service_block p {
     font-size: 16px;
-    color: #FFC0E8;
+    color: #42385D;
     margin: 0 0 35px 0;
 }
 	
@@ -687,7 +687,7 @@ color:#fff;
 
 
 #work_outer {
-    background: #f9f9f9;
+    background: #42385D;
     padding: 70px 0px;
     position: relative;
 }
