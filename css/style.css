@@ -654,7 +654,7 @@ div#main-nav {
 }
 
 .service_icon i {
-  color: #FEE16F;
+  color: #FCB96D;
 font-size: 40px;
 margin-top: 0;
 position: relative;
@@ -1019,7 +1019,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #FEE16F;
+	color: #FCB96D;
 	left: 0px;
 	top: 3px;
 }
@@ -1516,13 +1516,13 @@ transition: all .3s;
     text-transform: uppercase;
     transition: all 0.3s ease-in-out 0s;
     background: #fff;
-    border: #C2C2C2 solid 1px;
-    color: #7C7C7C;
+    border: #42385D solid 1px;
+    color: #42385D;
 }
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
     background: #F4C2C2;
-    color: #FEE16F;
+    color: #FCB96D; /* text when u hover over aaaaaaaaaaa*/
     text-decoration: none;
     border: #F4C2C2 solid 1px;
 }
@@ -2089,7 +2089,7 @@ div.mc-image {
     font-size:21px;
     font-weight:400;
     color: #000;
-    background: #FEE16F;
+    background: #FCB96D;
     border-radius:5px;
 }
 
@@ -2184,7 +2184,7 @@ div.mc-image {
     height:80px;
     left:10px;
     text-align:center;
-    color: #FEE16F;
+    color: #FCB96D;
     -webkit-transition:color .3s ease-out;
     transition:color .3s ease-out;
 }
@@ -2256,7 +2256,7 @@ div.mc-image {
     font-family:'FontAwesome';
     font-size:21px;
     line-height:21px;
-    color: #FEE16F;
+    color: #FCB96D;
     vertical-align:middle;
     -webkit-transition:padding .3s ease-out;
     transition:padding .3s ease-out;
